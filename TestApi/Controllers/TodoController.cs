@@ -8,9 +8,6 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Web;
 using Microsoft.AspNetCore.JsonPatch;
-using AutoMapper.QueryableExtensions;
-
-
 namespace MTech.HttpResearch.TestApi
 {
     [Route("[controller]")]
